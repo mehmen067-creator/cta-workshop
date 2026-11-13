@@ -9,3 +9,6 @@ Käsurealt kloonimiseks kasuta käsku:
 git clone https://github.com/unitartu-edu/cta-workshop
 ```
 
+MINA OLEN PARIM
+
+
